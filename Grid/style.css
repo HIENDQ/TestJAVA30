@@ -1,0 +1,12 @@
+.wrapper {
+    display: grid;
+}
+.wrapper  {
+    display: grid;
+}
+.item1 {
+    background-color: #ffff;
+    border:  1px solid black;
+    width: 30px;
+    height: 30px;
+}
